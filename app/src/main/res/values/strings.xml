@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAtlanTeam</string>
+    <string name="card">Карточки</string>
+    <string name="contacts">Контакты</string>
+
+    <string name="hello_blank_fragment">Card Fragment</string>
+    <string name="_8_926_120_2922">8-926-120-2922</string>
+    <string name="name">Белянин Роман</string>
+    <string name="bel_r_s_yandex_ru">bel.r.s@yandex.ru</string>
+</resources>
